@@ -1,0 +1,17 @@
+
+Here are some great places to start your learning journey.  I haven't ever taken a formal class in technology & find there is so much information out there to self learn.
+
+To learn more about Ubuntu Linux, the operating system installed here, you can visit the below site:
+https://ubuntu.com/tutorials/command-line-for-beginners
+https://youtube.com/watch?v=lmeDvSgN6zY
+
+To master the bash terminal, alternatively known as command line interface (CLI), visit:
+https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics
+
+To learn how to code you can visit Code Academy; they have lots of free content available.  Check with your dad before creating an account:
+https://codeacademy.com
+
+To learn more about the beginning of the internet revolution you can watch the movie Revolution OS on YouTube here:
+https://www.youtube.com/watch?v=jw8K460vx1c
+
+If you want to learn more your dad knows where to find me & keep the passion going!
