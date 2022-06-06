@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @s3ntrys3curity
-- I am a n00b :) 
+Hi, I’m @s3ntrys3curity.  
 
 <!---
 s3ntrys3curity/s3ntrys3curity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
